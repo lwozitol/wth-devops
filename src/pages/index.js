@@ -3,8 +3,6 @@ import dbConnect from "../lib/dbConnect";
 import Pet from "../models/Pet";
 import Hours from "../components/Hours";
 
-import Hours from "../components/Hours";
-
 const Index = ({ pets }) => {
 
   return (
